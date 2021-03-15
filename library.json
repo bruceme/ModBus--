@@ -1,14 +1,16 @@
-"name": "ModBus--",
-"version": "1.0.0",
+{
+"name":"ModBusMinus",
+"version":"1.0.0",
 "description":"Simplest possible Arduino serial ModBus implimentation.  Uses Serial2 externally configured.",
 "authors":{
     "name": "Bruce Meacham",
-    "email": "meabru@gmail.com",
+    "email": "meabru@gmail.com"
 },
-"license" : "MIT",
+"license":"MIT",
 "repository":
 {
     "type": "git",
     "url": "https://github.com/bruceme/ModBus--.git"
 },
-"frameworks": "arduino"
+"frameworks":"arduino"
+}
